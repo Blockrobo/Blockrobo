@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Blockrobo
-- 👀 I’m interested in UX-Design, AI, Metaverse, etc.
+- 👀 I’m interested in UX-Design, AI, Machine Learning, etc.
 - 🌱 I’m currently learning Flutter & Java.
-- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: Just leave me a message wherever you can find me.
 
 <!---
